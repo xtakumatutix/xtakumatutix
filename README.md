@@ -1,5 +1,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xtakumatutix&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtakumatutix&hide=javascript,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtakumatutix&hide=javascript,html,css,scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 ### > MinecraftBE(PocketMine-MP)<br>
 ### > AndroidStudio(Recently)
 
